@@ -1,0 +1,19 @@
+{
+  "name": "backendweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anubhv0001/backendWeb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anubhv0001/backendWeb/issues"
+  },
+  "homepage": "https://github.com/anubhv0001/backendWeb#readme"
+}
